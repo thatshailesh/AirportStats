@@ -48,7 +48,7 @@ each item in the collection should have the following information:
 • count of reviews in system
 ```
 
-####GET: api/[airport]/stats
+#### GET: api/[airport]/stats
 
 ```sh
 [airport] as unique identifier returns: stats for a
@@ -64,7 +64,7 @@ specific airport:
 • count of recommendations “recommended”
 ```
 
-####GET: api/[airport]/reviews
+#### GET: api/[airport]/reviews
 
 ```sh
 [airport] as unique identifier
